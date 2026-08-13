@@ -40,5 +40,5 @@
 ## 📫 Onde me encontrar
 
 - ✉️ **E-mail:** gd039122@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/gabriel-dutra](https://www.linkedin.com/in/gabriel-dutra)
+- 💼 **LinkedIn:** [linkedin.com/in/gdutra-dev](https://www.linkedin.com/in/gdutra-dev)
 - 📍 Itajaí/SC · aberto a oportunidades **remotas** ou **presenciais** (estágio e júnior)
